@@ -1,0 +1,26 @@
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\myprint.Form1.resources
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\myprint.Properties.Resources.resources
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\myprint.csproj.GenerateResource.Cache
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\bin\Release\myprint.exe
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\bin\Release\myprint.pdb
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\myprint.exe
+C:\Users\luke\Documents\Visual Studio 2008\Projects\myprint\myprint\obj\Release\myprint.pdb
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\bin\Release\myprint.exe
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\bin\Release\myprint.pdb
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.csproj.AssemblyReference.cache
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.Form1.resources
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.Properties.Resources.resources
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.csproj.GenerateResource.cache
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.csproj.CoreCompileInputs.cache
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.exe
+C:\Users\luke\Documents\Visual Studio 2022\myprint\myprint\obj\Release\myprint.pdb
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\bin\Release\myprint.exe
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\bin\Release\myprint.pdb
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.csproj.AssemblyReference.cache
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.Form1.resources
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.Properties.Resources.resources
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.csproj.GenerateResource.cache
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.csproj.CoreCompileInputs.cache
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.exe
+C:\Users\nbjf\Documents\myprint-20220720凌晨3点版本\myprint\obj\Release\myprint.pdb
